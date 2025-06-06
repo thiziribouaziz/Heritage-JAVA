@@ -53,6 +53,8 @@ public class Main {
 		
 		System.out.println("/n------------------/n");
 		System.out.println("new update");
+		System.out.println("git push update after brach merge with remote ");
+		
 		
 			
 		
